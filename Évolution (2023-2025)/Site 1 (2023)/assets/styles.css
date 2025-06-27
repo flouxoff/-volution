@@ -1,0 +1,125 @@
+#titre{
+	font-size: 64px;
+	font-style: italic;
+	text-decoration: underline overline;
+	text-align: center;
+	color: darkViolet;
+}
+
+#sous_titre{
+	font-size: 50px;
+	font-style: italic;
+	text-decoration: underline;
+	color: coral;
+	margin: 50px;
+}
+
+#liens{
+	font-size: 25px;
+	color: white;
+}
+
+#accueil{
+	font-size: 25px;
+	color: white;
+}
+
+#dd{
+	font-size: 45px;
+	font-style: italic;
+	text-decoration: underline;
+	color: deepSkyBlue;
+	margin: 50px;
+}
+
+#ram{
+	font-size: 45px;
+	font-style: italic;
+	text-decoration: underline;
+	color: forestGreen;
+	margin: 50px;
+}
+
+#cm{
+	font-size: 45px;
+	font-style: italic;
+	text-decoration: underline;
+	color: goldenRod;
+	margin: 50px;
+}
+
+#alim{
+	font-size: 45px;
+	font-style: italic;
+	text-decoration: underline;
+	color: hotPink;
+	margin: 50px;
+}
+
+#prest{
+	font-size: 35px;
+	font-style: italic;
+	color: brown;
+	margin: 50px;
+}
+
+#text{
+	font-size: 25px;
+	margin: 15px;
+}
+
+#text2{
+	font-size: 25px;
+	text-decoration: underline;
+	margin: 15px;
+}
+
+.header{
+	background-color: rgb(90, 0, 129);
+	height: 80px;
+	margin: 10px;
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+ul li a{
+	letter-spacing: 0.1rem;
+}
+ul li a:hover{
+	text-decoration: underline;
+}
+
+.menu li{
+	float: left;
+	padding: 25px;
+}
+
+.menu li a{
+	text-decoration: none;
+}
+
+form{
+	padding: 30px;
+	text-align: right;
+}
+
+.fond{
+	color: black;
+}
+
+body{
+	background: rgb(237,171,255);
+	background: radial-gradient(circle, rgba(237,171,255,1) 0%, rgba(189,219,254,1) 100%);
+}
+
+#image{
+	text-align: right;
+	margin: 30px;
+}
+
+
+

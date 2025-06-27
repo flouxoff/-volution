@@ -1,0 +1,91 @@
+body{
+	background: rgb(237,171,255);
+	background: radial-gradient(circle, rgba(237,171,255,1) 0%, rgba(189,219,254,1) 100%);
+}
+
+#liens{
+	font-size: 25px;
+	color: white;
+}
+
+#accueil{
+	font-size: 25px;
+	color: white;
+}
+
+.header{
+	background-color: rgb(90, 0, 129);
+	height: 80px;
+	margin: 10px;
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+ul li a{
+	letter-spacing: 0.1rem;
+}
+ul li a:hover{
+	text-decoration: underline;
+}
+
+.menu li{
+	float: left;
+	padding: 25px;
+}
+
+.menu li a{
+	text-decoration: none;
+}
+
+.fond{
+	color: black;
+}
+
+#formul{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 45px;
+	font-style: italic;
+}
+
+form {
+  margin: 5em auto;
+  width: 600px;
+  padding: 2em;
+  border: 2px solid lavender;
+  border-radius: 2em;
+  background: radial-gradient(circle, rgba(237,171,255,1) 35%, rgba(189,219,254,1) 100%);
+}
+ 
+ul { 
+	list-style: none;
+}
+
+label {
+  display: inline-block;
+  width: 500px;
+  text-align: left;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+input, textarea {
+  font: 1em sans-serif;
+  width: 500px;
+  box-sizing: border-box;
+  border: 2px solid lavender;
+  margin: 0.5em 0em;
+}
+
+input:focus, textarea:focus {
+  border-color: mediumpurple;
+}
+
+textarea {
+  vertical-align: top;
+  height: 8em;
+}
